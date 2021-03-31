@@ -1,11 +1,11 @@
 Region,colore
 Abruzzo,orange
 Basilicata,orange
-Calabria,orange
+Calabria,red
 Campania,red
 Emilia-Romagna,red
 Friuli Venezia Giulia,red
-Lazio,red
+Lazio,orange
 Liguria,orange
 Lombardia,red
 Marche,red
@@ -14,8 +14,8 @@ Piemonte,red
 Puglia,red
 Sardegna,orange
 Sicilia,orange
-Toscana,orange
+Toscana,red
 Trentino-Alto Adige,red
 Umbria,orange
-Valle d'Aosta,orange
+Valle d'Aosta,red
 Veneto,red
